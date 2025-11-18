@@ -138,7 +138,7 @@ export default function Detect() {
                   a: 'Most images are analyzed within 5-10 seconds, depending on image quality and current system load.',
                 },
                 {
-                  q: 'Can I use Crop-Pal for multiple crops?',
+                  q: 'Can I use CropSavvy for multiple crops?',
                   a: 'Yes! Crop-Pal works with a wide variety of crops including wheat, corn, rice, potatoes, tomatoes, and many more.',
                 },
               ].map((faq, index) => (
