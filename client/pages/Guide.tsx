@@ -6,13 +6,13 @@ const comicSteps = [
     id: 1,
     img: '/1.png',
     title: 'Step 1: Oh no, Something’s Wrong!',
-    description: 'Farmer is worried: "What happened to my crops?!" Don’t worry—Crop-Pal is here to help you figure out what is happening!',
+    description: 'Farmer is worried: "What happened to my crops?!" Don’t worry CropSavvy is here to help you figure out what is happening!',
   },
   {
     id: 2,
     img: '/2.png',
     title: 'Step 2: Listen to Your Crops',
-    description: 'Your crops may be feeling sad and sick, but you can help them! Simply open the Crop-Pal app, and let technology be your field-side doctor.',
+    description: 'Your crops may be feeling sad and sick, but you can help them! Simply open the CropSavvy app, and let technology be your field-side doctor.',
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ const comicSteps = [
     id: 4,
     img: '/4.png',
     title: 'Step 4: Welcome to the Future!',
-    description: 'Now farmers everywhere can use Crop-Pal to detect and treat crop diseases instantly! Try it yourself and watch your field flourish.',
+    description: 'Now farmers everywhere can use CropSavvy to detect and treat crop diseases instantly! Try it yourself and watch your field flourish.',
   },
 ];
 
@@ -94,7 +94,7 @@ export default function Guide() {
         >
           <h2 className="text-4xl font-bold text-white mb-4">Protect Your Crops Today!</h2>
           <p className="text-green-100/70 text-lg mb-8">
-            Start using Crop-Pal and become the hero of your field.
+            Start using CropSavvyand become the hero of your field.
           </p>
           <a
             href="/detect"

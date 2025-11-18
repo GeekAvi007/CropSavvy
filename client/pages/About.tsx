@@ -16,7 +16,7 @@ export default function About() {
       id: 2,
       title: 'Why Crop Disease Detection Matters',
       description:
-        'Crop diseases are responsible for 20-40% of global crop losses annually. Early detection can prevent devastating losses. Crop-Pal uses advanced computer vision and machine learning to identify diseases before they spread, saving farmers time, money, and crops.',
+        'Crop diseases are responsible for 20-40% of global crop losses annually. Early detection can prevent devastating losses. CropSavvy uses advanced computer vision and machine learning to identify diseases before they spread, saving farmers time, money, and crops.',
       icon: Leaf,
       image: 'https://images.unsplash.com/photo-1500382017468-7049fdf41224?w=600&h=600&fit=crop',
     },
@@ -24,7 +24,7 @@ export default function About() {
       id: 3,
       title: 'How CropSavvy Helps Farmers',
       description:
-        'Simply take a photo of your crop, upload it to Crop-Pal, and receive instant AI-powered analysis. Get detailed insights about disease identification, severity assessment, and recommended treatments. All within seconds, right from your smartphone.',
+        'Simply take a photo of your crop, upload it to CropSavvy, and receive instant AI-powered analysis. Get detailed insights about disease identification, severity assessment, and recommended treatments. All within seconds, right from your smartphone.',
       icon: Zap,
       image: 'https://images.unsplash.com/photo-1495567720989-cebdbdd97913?w=600&h=600&fit=crop',
     },
@@ -129,7 +129,7 @@ export default function About() {
         >
           <h2 className="text-4xl font-bold text-white mb-4">Ready to Protect Your Crops?</h2>
           <p className="text-green-100/70 text-lg mb-8">
-            Start using Crop-Pal today and detect crop diseases before they spread.
+            Start using CropSavvy today and detect crop diseases before they spread.
           </p>
           <a
             href="/detect"

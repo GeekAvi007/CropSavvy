@@ -127,7 +127,7 @@ export default function Detect() {
               {[
                 {
                   q: 'What image formats are supported?',
-                  a: 'Crop-Pal supports JPG, JPEG, PNG, and WEBP formats with a maximum file size of 10MB.',
+                  a: 'CropSavvysupports JPG, JPEG, PNG, and WEBP formats with a maximum file size of 10MB.',
                 },
                 {
                   q: 'How accurate is the disease detection?',
@@ -139,7 +139,7 @@ export default function Detect() {
                 },
                 {
                   q: 'Can I use CropSavvy for multiple crops?',
-                  a: 'Yes! Crop-Pal works with a wide variety of crops including wheat, corn, rice, potatoes, tomatoes, and many more.',
+                  a: 'Yes! CropSavvyworks with a wide variety of crops including wheat, corn, rice, potatoes, tomatoes, and many more.',
                 },
               ].map((faq, index) => (
                 <motion.details
