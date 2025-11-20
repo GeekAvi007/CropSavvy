@@ -90,7 +90,7 @@ export default function NoticeCard() {
           transition={{ delay: 0.5 }}
           className="mt-8 text-center text-green-200/70 text-sm sm:text-base"
         >
-          Higher quality images lead to more accurate disease detection and recommendations. Follow these guidelines to get the best results from Crop-Pal.
+          Higher quality images lead to more accurate disease detection and recommendations. Follow these guidelines to get the best results from CropSavvy.
         </motion.p>
       </div>
     </motion.div>

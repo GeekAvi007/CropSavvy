@@ -38,7 +38,7 @@ export default function RatingSection({ isLoggedIn = false, onLoginRequired }: R
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6 }}
         >
-          <h2 className="text-4xl font-bold text-white mb-4">How helpful was Crop-Pal?</h2>
+          <h2 className="text-4xl font-bold text-white mb-4">How helpful was CropSavvy?</h2>
           <p className="text-green-100/70 mb-8">Let us know your experience and help us improve</p>
 
           {/* Rating stars */}

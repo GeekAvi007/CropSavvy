@@ -83,7 +83,7 @@ export default function StickyFeatures() {
           className="text-center mb-16"
         >
           <h2 className="text-4xl sm:text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-green-300 to-green-500 mb-4">
-            Why Choose Crop-Pal?
+            Why Choose CropSavvy?
           </h2>
           <p className="text-green-100/80 text-lg max-w-2xl mx-auto">
             Advanced AI technology designed specifically for farmers to protect and maximize crop yields.
